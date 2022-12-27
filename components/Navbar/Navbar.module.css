@@ -1,32 +1,11 @@
-.red_border{
-    border: 2px solid red;
-}
-
-.toggle_nav{
-    position: absolute;
-    /* border: 2px solid red; */
-    top: -18vw;
-}
-
-.b{
-    opacity: 0;
-}
-
-.sidebar{
-    background-color: #0CC7E9;
-    color: whitesmoke;
-}
-
-.sidebar_header{
-    background-color: #0CC7E9;
-}
-
-.sidebar_links {
-    color: whitesmoke; 
-}
-
-.nav_div{
-    position: relative;
+.navbar{
+    background-color: #000;
+    color: #fff;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 8vh;
 }
   
   .navbar_3{
